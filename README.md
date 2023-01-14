@@ -7,3 +7,9 @@ Face Verification "Is this the claimed person?" For example, at some airports, y
 Face Recognition "Who is this person?" For example, the video lecture showed a face recognition video of Baidu employees entering the office without needing to otherwise identify themselves. This is a 1:K matching problem.
 
 FaceNet learns a neural network that encodes a face image into a vector of 128 numbers. By comparing two such vectors, you can then determine if two pictures are of the same person.
+
+
+# Acknowledgements:
+[https://www.coursera.org/learn/convolutional-neural-networks]
+
+[https://www.deeplearning.ai/program/deep-learning-specialization/]
