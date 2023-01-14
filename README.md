@@ -1,6 +1,7 @@
 # Face_Recognition
 
-## Should only by used for reference purposes.
+## Note: 
+Should only by used for reference purposes.
 
 Face recognition problems commonly fall into one of two categories:
 
